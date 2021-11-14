@@ -17,7 +17,7 @@ With this tool u can hijack 8 different  cryptocurrency coins
 
 [PERSISTENCE]
 
-AUTORUN WHEN WINDOWS OPEN
+AUTORUN WHEN WINDOWS START
 
 [Undetectable by windows defender and many other AV ]
 
