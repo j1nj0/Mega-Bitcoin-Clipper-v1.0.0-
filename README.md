@@ -24,6 +24,6 @@ AUTORUN WHEN WINDOWS OPEN
 Virus Total (14/66)
 
 ![This is an image](https://i.ibb.co/XLBzW4B/virustotal1.png)
-# To buy This Tool Please Contact spirited.pentest@gmail.com <br/>
+# To buy This Tool Please Contact jinjoclip@gmail.com <br/>
 ## *price : 15 USD*
 > :warning: ** Payment :  I only accept  **: bitcoin Or Ltc / Dogecoin for low fees transaction !
