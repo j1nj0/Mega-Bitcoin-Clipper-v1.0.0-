@@ -27,5 +27,5 @@ Virus Total (14/66)
 [demo video] https://screenrec.com/share/opX9UESA4B
 # To buy This Tool Please Contact jinjoclip@gmail.com <br/>
 ## *price : 15 USD*
-### telegram : jinjotn
+### Telegram : jinjotn
 > :warning: ** Payment :  I only accept  **: bitcoin Or Ltc / Dogecoin for low fees transaction !
