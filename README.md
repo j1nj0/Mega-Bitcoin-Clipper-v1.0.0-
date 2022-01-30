@@ -29,5 +29,5 @@ Virus Total (14/66)
 ## *price :10 USD*
 ### Telegram : jinjo1337
 
-###  Buy this Tool for Only 3 Dollars
+###  Buy this Tool for Only 10 Dollars
 > :warning: ** Payment :  I only accept  **: bitcoin Or Ltc / Dogecoin for low fees transaction !
